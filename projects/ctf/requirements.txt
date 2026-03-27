@@ -1,0 +1,10 @@
+anthropic
+bcrypt
+easyocr
+Flask-JWT-Extended
+flask-unsign
+PyMySQL
+pytesseract
+sympy
+requests
+bcrypt

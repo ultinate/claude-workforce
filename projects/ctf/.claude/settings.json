@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch",
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Bash(python *)",
+      "Bash(source *)",
+      "Bash(pip *)",
+      "Bash(python3 *)",
+      "Bash(nc *)",
+      "Bash(ncat *)",
+      "Bash(strings *)",
+      "Bash(file *)",
+      "Bash(xxd *)",
+      "Bash(objdump *)",
+      "Bash(readelf *)",
+      "Bash(binwalk *)",
+      "Bash(gdb *)",
+      "Bash(r2 *)",
+      "Bash(openssl *)",
+      "Bash(echo *)",
+      "Bash(printf *)",
+      "Bash(cat *)",
+      "Bash(ls *)",
+      "Bash(grep *)",
+      "Bash(base64 *)",
+      "Bash(xxd *)",
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep"
+    ]
+  }
+}

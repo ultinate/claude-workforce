@@ -1,0 +1,5 @@
+projects/ctf/env/
+projects/ctf/input/
+projects/ctf/tools/rockyou.txt
+projects/ctf/challenges/*/flag.txt
+.claude/settings.local.json

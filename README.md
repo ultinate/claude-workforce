@@ -9,7 +9,4 @@ Each project lives in `projects/<name>/` with its own `CLAUDE.md`, dependencies,
 ## Projects
 
 - [`projects/ctf/`](projects/ctf/) — Autonomous CTF puzzle-solving agent
-
-## Agents
-
-Shared agents are defined in each project's `.claude/agents/*.md`. Projects may define their own agents in their subdirectory.
+- [`projects/arduino/`](projects/arduino/) — Develop a heating controller using Arduino
